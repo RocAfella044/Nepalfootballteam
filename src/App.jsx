@@ -18,7 +18,7 @@ function App() {
   return (
     <Router>
       <div className="min-h-screen bg-gray-50">
-<Navbar/>
+        <Navbar />
         <Routes>
           <Route path="/news" element={<News />} />
           <Route path="/" element={<NewsPage />} />
@@ -31,7 +31,7 @@ function App() {
           <Route path="/feedback" element={<FeedbackPage />} />
           <Route path="/History" element={<HistoryPage />} />
         </Routes>
-<Footer/>
+        <Footer />
       </div>
     </Router>
   );
