@@ -29,7 +29,7 @@ function App() {
           <Route path="/trophies" element={<TrophiesPage />} />
           <Route path="/fixtures" element={<FixturesPage />} />
           <Route path="/feedback" element={<FeedbackPage />} />
-          <Route path="/History" element={<HistoryPage />} />
+          <Route path="/history" element={<HistoryPage />} />
         </Routes>
         <Footer />
       </div>
