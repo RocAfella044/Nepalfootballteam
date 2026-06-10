@@ -34,7 +34,7 @@ export default function Footer() {
             <p className="text-sm leading-relaxed">
               All Nepal Football Association (ANFA)
               <br />
-              Official Website of Nepal National Football Team
+              Website of Nepal National Football Team
             </p>
           </div>
 

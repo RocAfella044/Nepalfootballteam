@@ -5,7 +5,7 @@ export default function Fixtures() {
     <section id="fixtures" className="py-16 bg-gray-50">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-4xl text-black font-bold text-center mb-12">
-          Upcoming Fixtures
+          Fixtures
         </h2>
 
         <div className="space-y-6 max-w-3xl mx-auto">
