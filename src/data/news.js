@@ -8,10 +8,10 @@ export const newsData = [
   },
   {
     id: 2,
-    title: "NK fc pokhara wins the national womens league by making their own rule as bouddha shanti club raise voices over it",
-    date: "June 9, 2026",
-    image: "https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/720259753_908844878894666_4610398054176320502_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p180x540&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZNG6lAWqEJYQ7kNvwGciHbZ&_nc_oc=AdpgmQxewt0DUhJo9oK0Zl-ZxhQNTpY6KZidhCRPsf6Lrp-i0qI3lzPchmq83C0MSuk&_nc_zt=23&_nc_ht=scontent.fktm8-1.fna&_nc_gid=jc5IOtv2qO2x_B2DrcGwvw&_nc_ss=7b2a8&oh=00_Af_IpB7boxzywPL5Z1ieUWFf4Q5TWkxHJWGP7N2POOPNlw&oe=6A2ED4AF",
-    summary: "Shameful League and it rules held by pokhara management in Womens National league-2083"
+    title: "NSC suspends ANFA for three months",
+    date: "June 15, 2026",
+    image: "https://english.onlinekhabar.com/wp-content/uploads/2026/03/nsc-anfa.png",
+    summary: "After repeatedly failing to comply with its directives, a meeting of the NSC Executive Committee on Wednesday decided to suspend the ANFA leadership for three months under Section 29(2) of the National Sports Development Act, 2017."
   },
   {
     id: 3,
@@ -22,10 +22,10 @@ export const newsData = [
   },
   {
     id: 4,
-    title: "Banned at TIA, grounded ANFA officials still have an open road to Mexico via India",
-    date: "June 6, 2026",
-    image: "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/anfaexco-1781076376.jpg&w=900&height=601",
-    summary: "All Nepal Football Association’s Pankaj Bikram Nembang and General Secretary Kiran Rai had no trouble entering the International Terminal of the Tribhuvan International Airport on Monday night. They were travelling to Mexico, with a transit in Istanbul, Turkey, for the inaugural match of the 2026 FIFA World Cup.."
+    title: "Yielding to pressure ANFA announces starting date for Martyr’s Memorial A Division league",
+    date: "June 16, 2026",
+    image: "https://www.goalnepal.com/uploads/news/1774059551.jpg",
+    summary: "The spotlight is back on the All Nepal Football Association for its failure to hold the country’s top level men’s Martyr’s Memorial A Division football league in Kathmandu with regularity."
   }
 
 ];
