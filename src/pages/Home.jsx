@@ -1,4 +1,4 @@
-import Hero from '../components/Hero';
+
 import News from '../components/News';
 import Players from '../components/Players';
 import Fixtures from '../components/Fixtures';
