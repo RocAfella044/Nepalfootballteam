@@ -57,7 +57,7 @@ const navLinks = [
 
             <div className="flex items-center gap-4">
               {/* Search Bar */}
-              <div className="relative hidden md:block w-80">
+              {/* <div className="relative hidden md:block w-80">
                 <input
                   type="text"
                   placeholder="Search to know more"
@@ -66,7 +66,7 @@ const navLinks = [
                   className="w-full bg-white/20 text-white placeholder:text-white/70 px-4 py-2.5 pl-11 rounded-full focus:outline-none focus:bg-white/30 focus:ring-2 focus:ring-blue-100 transition"
                 />
                 <Search className="absolute left-4 top-3 w-5 h-5 text-white/70" />
-              </div>
+              </div> */}
 
 
               {/* Mobile Menu Button */}
