@@ -1,10 +1,10 @@
 export const newsData = [
   {
     id: 1,
-    title: "Bangladesh breaks Nepali hearts again at SAFF Women’s Championship",
-    date: "June 4, 2026",
-    image: "https://media.nepalitimes.com/1/p/20241031141012_284b757e7f6be854fd8a01175347ec744bc97e5a1cc432092bcce3dca0e3e5e5.jpg",
-    summary: "Nepal’s dream of winning the SAFF Women’s Championship title has once again remained unfulfilled. This time, the Nepali women’s team couldn’t even make it to the final"
+    title: "South Asian Women’s Club football championship: Watershed event !",
+    date: "June 22, 2026",
+    image: "https://en.himalpress.com/wp-content/uploads/2025/01/Nepal-AFP-Football.png",
+    summary: "The ongoing first ever South Asian Football Federation Women’s Club championship in Kathmandu is a watershed event in the history of women’s football in South Asia."
   },
   {
     id: 2,
@@ -15,10 +15,10 @@ export const newsData = [
   },
   {
     id: 3,
-    title: "BREAKING: Nepal Football Facing FIFA Suspension Threat!",
-    date: "June 3, 2026",
-    image: "https://english.onlinekhabar.com/wp-content/uploads/2025/11/Anfa-kheladi.jpg",
-    summary: "Nepali football is currently navigating a major administrative crisis. FIFA and the Asian Football Confederation (AFC) have officially issued a warning to Nepal regarding government interference in the All Nepal Football Association (ANFA), threatening a global suspension."
+    title: "Former Nepal Coach Gyotuku Koji Guides Cambodia to Draw Against Malaysia in Mitsubishi Electric Cup",
+    date: "June 24, 2026",
+    image: "https://goalnepal.com/uploads/news/1733823515.jpg",
+    summary: "Former Nepal national football team coach Gyotuku Koji, now at the helm of the Cambodia national team, led his side to a hard-fought 2-2 draw against Malaysia in the Mitsubishi Electric Cup on Monday night."
   },
   {
     id: 4,
