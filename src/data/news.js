@@ -1,10 +1,10 @@
 export const newsData = [
   {
     id: 1,
-    title: "South Asian Women’s Club football championship: Watershed event !",
+    title: "ANFA Distributes FIFA Badges for 2026",
     date: "June 22, 2026",
-    image: "https://en.himalpress.com/wp-content/uploads/2025/01/Nepal-AFP-Football.png",
-    summary: "The ongoing first ever South Asian Football Federation Women’s Club championship in Kathmandu is a watershed event in the history of women’s football in South Asia."
+    image: "https://www.the-anfa.com/storage/images/news/news_1768367637.png",
+    summary: "The All Nepal Football Association (ANFA) distributed FIFA Badges for 2026 at a ceremony held at the ANFA Complex on Tuesday."
   },
   {
     id: 2,
@@ -15,9 +15,9 @@ export const newsData = [
   },
   {
     id: 3,
-    title: "Former Nepal Coach Gyotuku Koji Guides Cambodia to Draw Against Malaysia in Mitsubishi Electric Cup",
+    title: "Two-day Amateur Football Environment Analysis concludes",
     date: "June 24, 2026",
-    image: "https://goalnepal.com/uploads/news/1733823515.jpg",
+    image: "https://www.the-anfa.com/storage/images/news/news_20251121_161814_0000_1763724533.png",
     summary: "Former Nepal national football team coach Gyotuku Koji, now at the helm of the Cambodia national team, led his side to a hard-fought 2-2 draw against Malaysia in the Mitsubishi Electric Cup on Monday night."
   },
   {
