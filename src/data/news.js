@@ -16,16 +16,16 @@ export const newsData = [
   {
     id: 3,
     title: "Two-day Amateur Football Environment Analysis concludes",
-    date: "June 24, 2026",
+    date: "June 30, 2026",
     image: "https://www.the-anfa.com/storage/images/news/news_20251121_161814_0000_1763724533.png",
-    summary: "The All Nepal Football Association (ANFA) has concluded its two-day Amateur Football Environment Analysis held at Royal Tulip in Gwarko. The program, led by Karina Viviana Barriga, Amateur Football Manager for Asia and Oceania, and FIFA Regional Technical Consultant for South Asia, Chokey Nima, brought together key stakeholders to assess the current state of Nepal’s amateur football ecosystem."
+    summary: "Former Nepal national football team coach Gyotuku Koji, now at the helm of the Cambodia national team, led his side to a hard-fought 2-2 draw against Malaysia in the Mitsubishi Electric Cup on Monday night."
   },
   {
     id: 4,
-    title: "Yielding to pressure ANFA announces starting date for Martyr’s Memorial A Division league",
+    title: "Final squad announced for SAFF Women's Championship",
     date: "June 16, 2026",
-    image: "https://www.goalnepal.com/uploads/news/1774059551.jpg",
-    summary: "The spotlight is back on the All Nepal Football Association for its failure to hold the country’s top level men’s Martyr’s Memorial A Division football league in Kathmandu with regularity."
+    image: "https://www.the-anfa.com/storage/images/news/file_1779428892.jpg",
+    summary: "Nepal has announced the final squad for the upcoming SAFF Women's Championship to be held in Goa, India. Head coach Nabin Neupane announced his squad on Saturday."
   }
 
 ];
