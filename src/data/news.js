@@ -1,10 +1,10 @@
 export const newsData = [
   {
     id: 1,
-    title: "ANFA Distributes FIFA Badges for 2026",
-    date: "June 22, 2026",
-    image: "https://www.the-anfa.com/storage/images/news/news_1768367637.png",
-    summary: "The All Nepal Football Association (ANFA) distributed FIFA Badges for 2026 at a ceremony held at the ANFA Complex on Tuesday."
+    title: "ANFA marks Grassroots Day with celebrations",
+    date: "July 01, 2026",
+    image: "https://www.the-anfa.com/storage/images/news/news_1684564256.jpg",
+    summary: "All Nepal Football Association (ANFA) marked 10th AFC Grassroots Day by conducting grassroots festival week in different places."
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ export const newsData = [
     title: "Two-day Amateur Football Environment Analysis concludes",
     date: "June 24, 2026",
     image: "https://www.the-anfa.com/storage/images/news/news_20251121_161814_0000_1763724533.png",
-    summary: "Former Nepal national football team coach Gyotuku Koji, now at the helm of the Cambodia national team, led his side to a hard-fought 2-2 draw against Malaysia in the Mitsubishi Electric Cup on Monday night."
+    summary: "The All Nepal Football Association (ANFA) has concluded its two-day Amateur Football Environment Analysis held at Royal Tulip in Gwarko. The program, led by Karina Viviana Barriga, Amateur Football Manager for Asia and Oceania, and FIFA Regional Technical Consultant for South Asia, Chokey Nima, brought together key stakeholders to assess the current state of Nepal’s amateur football ecosystem."
   },
   {
     id: 4,
