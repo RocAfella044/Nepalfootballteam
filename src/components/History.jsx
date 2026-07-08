@@ -74,7 +74,7 @@ export default function History() {
                 The renovation and reopening of the historic Dasharath Stadium
                 gave Nepal football a modern home. Packed crowds and passionate
                 support helped create memorable moments for the national team
-                and strengthened football's popularity across the country.
+                and strengthened football's popularity all over the country.
               </p>
             </div>
             <div className="bg-gray-100 h-64 rounded-2xl md:order-2">
