@@ -96,7 +96,7 @@ export default function Footer() {
             </form>
             {submitted && (
               <p className="text-green-400 text-sm mt-3">
-                 Thank you for your feedback!
+                 Thank you for the feedback!
               </p>
             )}
           </div>
