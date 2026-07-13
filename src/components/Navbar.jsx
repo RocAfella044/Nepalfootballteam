@@ -21,11 +21,10 @@ const navLinks = [
 ];
   return (
     <nav className="sticky top-0 z-50 shadow-lg">
-      {/* Mixed Red + Blue Gradient Background */}
+
       <div className="bg-linear-to-r from-red-700  to-blue-500 text-white">
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex items-center justify-between h-16">
-            {/* Logo */}
             <Link to="/news" className="flex items-center gap-3">
               <img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsju22NIo6pKt4p_sLH72LEta3ir800-Org&ss"
@@ -39,7 +38,7 @@ const navLinks = [
               </div>
             </Link>
 
-            {/* Desktop Navigation */}
+
             <div className="hidden md:flex items-center gap-8">
               {navLinks.map((link) => (
                 <Link
@@ -59,7 +58,7 @@ const navLinks = [
              
 
 
-              {/* Mobile Menu Button */}
+              
               <button
                 onClick={() => setIsOpen(!isOpen)}
                 className="md:hidden p-2 hover:bg-white/20 rounded-lg transition"
@@ -71,7 +70,7 @@ const navLinks = [
         </div>
       </div>
 
-      {/* Mobile Menu */}
+
       {isOpen && (
         <div className="md:hidden bg-linear-to-r from-red-700 to-blue-700 border-t border-white/30 py-6">
           <div className="flex flex-col items-center gap-6 text-lg">
